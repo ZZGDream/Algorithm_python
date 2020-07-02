@@ -7,7 +7,7 @@
 
 def binary_search(list: list, item: int):
     """
-    二分查找法，时间复杂度为log2n
+    二分查找法，时间复杂度为O(log2n)
     :param list: 一组有序的数据
     :param item: 查找的数据
     :return: 
