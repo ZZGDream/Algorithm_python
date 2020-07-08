@@ -2,7 +2,7 @@
   @author:"zzg"
   @file:recursive_method.py
   @time:2020/7/8 9:46
-  递归/栈的调用
+  递归/栈的调用(栈是先进后出)
 """
 
 def fact(x):
